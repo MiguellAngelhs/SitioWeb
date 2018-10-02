@@ -1,0 +1,57 @@
+.ofertas{
+    background: #F08080 ;
+    width: 100%;
+}
+
+.Logo_H{
+    width: 5%;
+    height: 5%;
+
+}
+
+.row{
+	margin-left: 10px;
+}
+
+.producto{
+	max-width: 40%;
+}
+.precio{
+	font-size: 25px
+}
+.cod_prod{
+	color: #48D1CC;
+}
+.talla{
+	font-size: 25px;
+}
+.boton_talla{
+	width:35px;
+	height:30px;
+	background-color: #FAF0E6;
+	margin: 20px;
+
+}
+
+.boton_anadir{
+	background-color: #FF1493;
+	margin-top: 20px
+}
+
+.titulo1{
+	width:100%;
+	height:100%;
+	background-color: #FAF0E6;
+	margin: 20px;
+}
+.Logo_f{
+	width: 60%;
+    height: 80%;
+    margin-top: 50px;
+    
+}
+
+.mostrador{
+	display: flex;
+}
+
